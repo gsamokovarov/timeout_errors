@@ -70,7 +70,7 @@ Here's the list of errors caught by `TimeoutErrors` by default.
 - `SocketError`
 - `Timeout::Error`
 
-Not that you can fill this list during runtime with
+Note that you can fill this list during runtime with
 `TimeoutErrors.include_error`.
 
 ## Why
